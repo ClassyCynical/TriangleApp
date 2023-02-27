@@ -1,0 +1,20 @@
+[ "contacts":
+    {
+        # "id": "05E1C46D-00A9-4EE9-BA7E-FFAFA2E38F49",
+        "name": "James Smith",
+        "phone": "555-1234",
+        "address": "123 Main Street"
+    },
+    {
+        # "id": "CB21F758-AE18-49FA-9DE8-2E9023EFC18D",
+        "name": "Michael Johnson",
+        "phone": "555-5678",
+        "address": "456 Elm Street"
+    },
+    {
+        # "id": "F36B8C6B-C85A-4B6B-91A9-F89913E72160",
+        "name": "John Doe",
+        "phone": "555-9012",
+        "address": "789 Oak Street"
+    }
+]
